@@ -34,6 +34,10 @@ $ ./setup
 
 $ whale
 ```
+## password :
+Username : cbrteam
+
+Password : abutaher
 
 
 ### * Single `Command` for termux :
