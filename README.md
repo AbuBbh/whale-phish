@@ -10,14 +10,18 @@ ____Cbr Hacker Team Tools____
 ## Installation of WHALE-PHISH : 
   
 
+
 ### * `Commands` for termux :
 ```
 $ termux-setup-storage
 
 $ pkg update && pkg upgrade && pkg install git -y
+```
 
-$ git clone https://github.com/AbuBbh/whale-phish.git
-
+```
+$ https://github.com/Cbr-Hacker-Team/whale-phish.git
+```
+```
 $ ls
 
 $ cd whale-phish
@@ -31,17 +35,20 @@ $ ./setup
 $ whale
 ```
 
+
 ### * Single `Command` for termux :
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/AbuBbh/whale-phish.git && cd whale-phish && chmod +x * && ./setup
+$ https://github.com/Cbr-Hacker-Team/whale-phish.git && cd whale-phish && chmod +x * && ./setup
 
 $ whale
 ```
+
+
 ### * `Commands` for Kali-Linux :
 ```
-$ git clone https://github.com/AbuBbh/whale-phish.git
+$ https://github.com/Cbr-Hacker-Team/whale-phish.git
 
 $ cd whale-phish
 
@@ -51,7 +58,8 @@ $ ./kali-setup
 
 $ kali-whale
 ```
-## Screenshots :-
+
+## Screenshots :
 
 ### Installing WHALE-PHISH :
 
