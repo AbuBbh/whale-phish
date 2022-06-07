@@ -1,19 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%849400F7&lines=BANGLADESH+CBR+HACKER+TEAM+)](https://git.io/typing-svg)
 
+____Cbr Hacker Team Tools____
 
-  
-## What is WHALE-PHISH??
-  
-WHALE-PHISH is a tool that will help you do Phishing in advance way so no one check and identify that you are you doing phishing.
-For those guys who Doesn't know about Phishing let me explain "Phishing is the fraudulent attempt to obtain sensitive information or data, such as usernames, passwords, by disguising oneself as a trustworthy entity in an electronic communication. Typically carried out by email spoofing, instant messaging and text messaging, phishing often directs users to enter personal information at a fake website which matches the look and feel of the legitimate site."
-This Projetc Does not Promote any thing Like this we just have made for testing perpose dont thing we into any illegal thing.
-we guys have add a feature of custom link so the normal link of ngrok that will change in to different link in the tool it self and you can customise that link also like you can make https://bdbackmailhacker.page.tl/
-That way no one will caught that you are phishing
-Hope you guys like this Project,then dont forget to give it a like.
-  
-## Installation of WHALE-PHISH :- 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%849400F7&lines=BANGLADESH+CBR+HACKER+TEAM+)](https://git.io/typing-svg) 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/JCJ1PbF/2022-6-5.jpg" alt="2022-6-5" border="0"></a>
+
+   
+## Installation of WHALE-PHISH : 
   
 
-### * `Commands` for termux :-
+### * `Commands` for termux :
 ```
 $ termux-setup-storage
 
@@ -34,7 +31,7 @@ $ ./setup
 $ whale
 ```
 
-### * Single `Command` for termux :-
+### * Single `Command` for termux :
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
@@ -42,7 +39,7 @@ $ git clone https://github.com/AbuBbh/whale-phish.git && cd whale-phish && chmod
 
 $ whale
 ```
-### * `Commands` for Kali-Linux :-
+### * `Commands` for Kali-Linux :
 ```
 $ git clone https://github.com/AbuBbh/whale-phish.git
 
@@ -54,54 +51,33 @@ $ ./kali-setup
 
 $ kali-whale
 ```
-## Screenshots :- 
+## Screenshots :-
 
-### Installing WHALE-PHISH :-
+### Installing WHALE-PHISH :
 
 ![Screenshot_2020-09-05-12-13-33](https://user-images.githubusercontent.com/64035221/92299650-ec1eb600-ef71-11ea-8934-3dda718ea11d.jpg)
 ![Screenshot_2020-09-05-12-14-31](https://user-images.githubusercontent.com/64035221/92299657-f5a81e00-ef71-11ea-89ce-9c29dc09b04f.jpg)
 
 ***
 
-## Development by :
-
-## Developer / Author: ABU TaHeR / [ABU-TaHER-TALUKDER](https://github.com/AbuBbh/whale-phish.git) 
-<h1> Developer's Image</h1>
+## Development by 
+<p align="center"><a href="https://github.com/CbrAbuTaher/CbrAbuTaher"><img title="CbrTeam" src="https://i.ibb.co/0BqCJFx/20220531-011346.jpg"></a>|
 
 
+### [  Bangladesh Cbr Hacker Team Developers HTML Code](https://github.com/AbuBbh/whale-phish.git)
+
+## যারা ইথিক্যাল হ্যাকিং শিখতে চান তারা আমাদের গ্রুপে join হন
+
+https://facebook.com/groups/327896256195002/?ref=share
 
 
+• Cyber Bank Republic cbr পেজে ইনবক্স করুন। ধন্যবাদ❗
 
 
-
-### [  Blackmaili Hacker Developers HTML Code](https://github.com/AbuBbh/whale-phish.git)
-
-### আসসালামু আল্লাইকুম ##
-
-
-
-
-## ইথিক্যাল হ্যাকিং শিখতে আগ্রহী যারা তারা আমাদের গ্রুপে অ্যাড হন
-
-##  https://www.facebook.com/groups/258073278862115/
-`````````````````````````````
- 
+  • Allah HafeZ......... ❤️
 
 
 
 
+ [![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AbuBbh/whale-phish.git)
 
-```````````````````````````````````````````````````
-𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 𝗕𝗹𝗮𝗰𝗸𝗺𝗮𝗶𝗹 𝗛𝗮𝗰𝗸𝗲𝗿 (𝗕𝗕𝗛).
-````````````````````````````````
-#share
-```````
-#invited
-`````````
-
-
-## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:-
-
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/AbuBbh/whale-phish.git)
-
-####################The_End##################
